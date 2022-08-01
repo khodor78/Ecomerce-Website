@@ -40,3 +40,6 @@ main {
 .rating span {
   color: #ffc000;
 }
+.new {
+  height: 80px;
+}
